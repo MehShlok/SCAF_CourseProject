@@ -1,4 +1,4 @@
-# StochCalc — Statistical Arbitrage via OU Pairs Trading
+# Stochastic Calculus and Applications to Finance: Statistical Arbitrage via OU Pairs Trading
 ### An LSTM-Enhanced Framework for Dynamic Hedge Ratios
 
 A complete quantitative pairs trading system for NSE-listed Indian banking stocks. Built around the Ornstein–Uhlenbeck (OU) stochastic process, the system screens for cointegrated pairs, estimates mean-reversion dynamics, and deploys a deep learning model that continuously adapts the hedge ratio to the current market regime — all evaluated on a strictly held-out out-of-sample period with walk-forward validation.
